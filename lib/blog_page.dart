@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fluuter_blog_navigation/custom_widgets/post+widget.dart';
+import 'package:fluuter_blog_navigation/custom_widgets/post_widget.dart';
 // Second Screen Widget
 
 class BlogScreen extends StatelessWidget {

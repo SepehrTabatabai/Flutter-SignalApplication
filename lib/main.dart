@@ -1,5 +1,3 @@
-// This Project is so simple its my First App To Learn Flutter and how Dart And Flutter Works
-// Instagram : sepehremune  /  Email : theseyedwork@gmail.com
 import 'package:flutter/material.dart';
 import 'login_page.dart';
 
